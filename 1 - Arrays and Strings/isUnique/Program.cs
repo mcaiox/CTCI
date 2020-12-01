@@ -15,7 +15,7 @@ namespace isUnique
 
             foreach (char c in str)
             {
-                //c is the ascii number equiv
+                //c is the ascii number equivalent
                 //Console.WriteLine(values[c]);
                 if (values[c]) // for each char, we check the values array and if it has seeen it before it will return true.
                 {
