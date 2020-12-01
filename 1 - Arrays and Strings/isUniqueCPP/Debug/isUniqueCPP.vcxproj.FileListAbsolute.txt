@@ -1,0 +1,2 @@
+C:\Users\Chin\Desktop\CTCI\1 - Arrays and Strings\isUniqueCPP\Debug\isUniqueCPP.exe
+C:\Users\Chin\Desktop\CTCI\1 - Arrays and Strings\isUniqueCPP\Debug\isUniqueCPP.pdb
